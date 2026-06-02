@@ -1,4 +1,4 @@
-# dio-trilha-java-basico
+# dio-bradesco-java-cloud-native
 Repositório para exemplos do bootcamp Bradesco - Java Cloud Native pela DIO
 
 Detalhes do bootcamp
