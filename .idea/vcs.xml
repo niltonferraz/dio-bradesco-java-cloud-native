@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diobradescojavacloudnative" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diobradescojavacloudnative/javaterminal" vcs="Git" />
+=======
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-terminal" vcs="Git" />
+>>>>>>> 956e06bea23d107186c5edd8348a17d9b4fc4dfd
   </component>
 </project>

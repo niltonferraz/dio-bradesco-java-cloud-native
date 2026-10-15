@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/dio_bootcamp_bradesco_java.iml" filepath="$PROJECT_DIR$/.idea/dio_bootcamp_bradesco_java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+>>>>>>> 956e06bea23d107186c5edd8348a17d9b4fc4dfd
     </modules>
   </component>
 </project>
